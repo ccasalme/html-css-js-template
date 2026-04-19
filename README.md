@@ -2,7 +2,7 @@
 
 ![Template Banner](/assets/templateBanner.png)
 
-## What is this Basic Javascript Directory?
+## What is this Basic Javascript Repo?
 * 💼 This directory serves as a simple Javascript Template.
 * 🤔 It has:
 	* 🕸️ Basic **HTML template**
